@@ -1,0 +1,3 @@
+[submodule "digital_library_project_client"]
+	path = digital_library_project_client
+	url = https://github.com/hari4742/digital_library_project_client.git
